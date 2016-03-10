@@ -4,6 +4,9 @@ Files and links used for the GRiD meeting on 9 March 2016.
 Presentations were on : 
 
 ## STAN
+
+https://github.com/kgourgou/set-phasers-to-stan
+
 ## GGVIS
 
 
